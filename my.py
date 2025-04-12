@@ -11,7 +11,7 @@ section = st.sidebar.radio("Go to",
 
 # Sidebar info
 st.sidebar.markdown("---")
-st.sidebar.image(r"C:\Users\Manas\Videos\download.jpg", width=100)
+st.sidebar.image("https://example.com/default-image.jpg", width=100)
 
 st.sidebar.markdown("**Manas Srivastava**")
 st.sidebar.markdown("[🔗 LinkedIn](https://www.linkedin.com/in/manas-srivastava-28010125b/)")
