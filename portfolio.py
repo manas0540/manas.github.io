@@ -173,12 +173,12 @@ elif section == "📄 Resume":
     st.markdown("""
         <div class="box">
             <p>You can view or download my latest resume:</p>
-            <a href="https://drive.google.com/uc?export=download&id=1CRZR888uKgTFzOLaVfvZbj7U0fEVH4pw" target="_blank">
+            <a href="https://drive.google.com/file/d/1r_61hnF0i1S-qbqYxlyal19UCjftaW1r/view?usp=sharing" target="_blank">
             <button style="background-color:#003366;color:white;padding:10px 20px;border:none;border-radius:8px;">
             Download Resume
             </button></a>
             <p>If you prefer, you can also view the resume online:</p>
-            <a href="https://drive.google.com/file/d/1CRZR888uKgTFzOLaVfvZbj7U0fEVH4pw/view?usp=sharing" target="_blank">
+            <a href="https://drive.google.com/file/d/1r_61hnF0i1S-qbqYxlyal19UCjftaW1r/view?usp=sharing" target="_blank">
             View Resume</a>
         </div>
     """, unsafe_allow_html=True)
